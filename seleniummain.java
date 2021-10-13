@@ -1,4 +1,4 @@
-
+package com.default
 
 public class SeleniumGit{
 
@@ -7,3 +7,4 @@ System.out.println("Welcome Git");
 
 	}
 }
+
